@@ -7,7 +7,9 @@ To filter through UFO sightings with javascript. We creayed an HTML webpage that
 Dana can use the search criterias listed in the HTML to select her specific UFO sightings.
 She can use one filter criteria such as the date to find UFO sightings reported on that specific date.
 She can also filter by city and search for all the UFO sightings reported in that specific city.
-Lastly, she can have multiple search filters such as date and city or country for a more selective search
+Lastly, she can have multiple search filters such as date and city or country for a more selective search.
+
+
 ![Filter](filter.png)
 
 ## Summary: 
